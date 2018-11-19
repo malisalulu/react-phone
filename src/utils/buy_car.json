@@ -1,0 +1,34 @@
+ [
+      {
+        "img": "http://localhost:9090/uploads/products/o_1b001ccd62babvb1msg2rs4tg90.jpg",
+        "title": "榴恋草莓",
+        "desc": "当独特的榴莲与酸甜的草莓倾心相遇，瞬间醉了你我的心扉",
+        "selected": true,
+        "number": 1,
+        "price": 168
+      },
+      {
+        "img": "http://localhost:9090/uploads/products/o_1c32ei57jlcts8f1luk1c4roli18.jpg",
+        "title": "提拉米苏",
+        "desc": "提拉米苏提拉米苏提拉米苏提拉米苏",
+        "number": 1,
+        "selected": false,
+        "price": 170
+      },
+      {
+        "img": "http://localhost:9090/uploads/products/o_1cl0qktjfs4162d16fh1ruas80k.jpg",
+        "title": "璞雪",
+        "desc": "我的专属蛋糕，只在幸福西饼；浪漫纯爱/专属心意",
+        "selected": true,
+        "number": 2,
+        "price": 198
+      },
+      {
+        "img": "http://localhost:9090/uploads/products/o_1cm6t8q42rec1erk14v11opj6bqi.jpg",
+        "title": "桃李芬芳",
+        "desc": "莘莘学子鲜芒心意，谆谆教诲师恩难忘",
+        "selected": true,
+        "number": 1,
+        "price": 178
+      }
+ ]

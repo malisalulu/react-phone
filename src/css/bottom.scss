@@ -1,0 +1,36 @@
+.bottomTab{
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+    background-color: #fff;
+    display: flex;
+    width: 100%;
+    .tabItem{
+        display: flex;
+        flex: 1;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        i{
+            font-size:0.22rem;
+            height: 0.22rem;
+            line-height: 0.22rem;
+        }
+        p{
+            height: 0.12rem;
+            line-height: 0.12rem;
+            font-size:0.12rem;
+        }
+    }
+    
+    .activeTab{
+        color:#0085ff;
+        font-weight: 300;
+    }
+    .noactiveTab{
+        color: #666;
+    }
+
+}
+

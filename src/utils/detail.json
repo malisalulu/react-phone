@@ -1,0 +1,228 @@
+{
+	"logistics":{
+		"isFree":true,
+		"feeType":0,
+		"feeTypeStr":"按件数",
+		"details":[
+			{"addAmount":0.00,
+			"addNumber":1,
+			"firstAmount":8.00,
+			"firstNumber":100,
+			"type":0,
+			"userId":951}
+			]
+	},
+	"extJson":{},
+	"category":{
+		"dateAdd":"2017-09-12 11:07:32",
+		"icon":"",
+		"id":1872,
+		"isUse":true,
+		"key":"1",
+		"name":"上装",
+		"paixu":0,
+		"pid":0,
+		"type":"",
+		"userId":951
+	},
+	"pics":[{
+		"goodsId":3776,
+		"id":23704,
+		"pic":"https://cdn.it120.cc/apifactory/2017/09/13/e170a4c1a73ee3144a97f431e60ea12b.jpg"
+	}],
+	"content":"<p>可爱套装</p><p><img src=\"https://cdn.it120.cc/apifactory/2017/09/13/bbf2f9620ce6814bdb29c5bfab7b7cd6.jpg\" style=\"\" title=\"apifactory/2017/09/13/bbf2f9620ce6814bdb29c5bfab7b7cd6.jpg\"/></p><p><img src=\"https://cdn.it120.cc/apifactory/2017/09/13/1275ec912c24255cbfda87b4721944a3.jpg\" style=\"\" title=\"apifactory/2017/09/13/1275ec912c24255cbfda87b4721944a3.jpg\"/></p><p><img src=\"https://cdn.it120.cc/apifactory/2017/09/13/3af14016ff86dff99dbc942537927eaf.jpg\" style=\"\" title=\"apifactory/2017/09/13/3af14016ff86dff99dbc942537927eaf.jpg\"/></p><p><img src=\"https://cdn.it120.cc/apifactory/2017/09/13/8a7119aebd7cb17605b5d7a2e95b5bd2.jpg\" style=\"\" title=\"apifactory/2017/09/13/8a7119aebd7cb17605b5d7a2e95b5bd2.jpg\"/></p><p><img src=\"https://cdn.it120.cc/apifactory/2017/09/13/21e9f5ac469a42881c111b25471f9dea.jpg\" style=\"\" title=\"apifactory/2017/09/13/21e9f5ac469a42881c111b25471f9dea.jpg\"/></p><p><img src=\"https://cdn.it120.cc/apifactory/2017/09/13/b37512b0c86ce45d3d74a617d610418f.jpg\" style=\"\" title=\"apifactory/2017/09/13/b37512b0c86ce45d3d74a617d610418f.jpg\"/></p><p><img src=\"https://cdn.it120.cc/apifactory/2017/09/13/35f634287065afbb5ed331d88b30a90a.jpg\" style=\"\" title=\"apifactory/2017/09/13/35f634287065afbb5ed331d88b30a90a.jpg\"/></p><p><img src=\"https://cdn.it120.cc/apifactory/2017/09/13/450e7cfeec253ae472f22b1118500f74.jpg\" style=\"\" title=\"apifactory/2017/09/13/450e7cfeec253ae472f22b1118500f74.jpg\"/></p><p><img src=\"https://cdn.it120.cc/apifactory/2017/09/13/beb569b9a8f0229ee95c12d9d834adff.jpg\" style=\"\" title=\"apifactory/2017/09/13/beb569b9a8f0229ee95c12d9d834adff.jpg\"/></p><p><img src=\"https://cdn.it120.cc/apifactory/2017/09/13/1eed5cfabdb506f960c9911d58473173.jpg\" style=\"\" title=\"apifactory/2017/09/13/1eed5cfabdb506f960c9911d58473173.jpg\"/></p><p><img src=\"https://cdn.it120.cc/apifactory/2017/09/13/ba593f033345b737844565eee8b4b3c3.jpg\" style=\"\" title=\"apifactory/2017/09/13/ba593f033345b737844565eee8b4b3c3.jpg\"/></p><p><img src=\"https://cdn.it120.cc/apifactory/2017/09/13/478a106787a64e5e055ca6ab86e3515f.jpg\" style=\"\" title=\"apifactory/2017/09/13/478a106787a64e5e055ca6ab86e3515f.jpg\"/></p><p><img src=\"https://cdn.it120.cc/apifactory/2017/09/13/0e1620579e9359715d99475b4052b970.jpg\" style=\"\" title=\"apifactory/2017/09/13/0e1620579e9359715d99475b4052b970.jpg\"/></p><p><img src=\"https://cdn.it120.cc/apifactory/2017/09/13/911e858223d56d2ab70d75d643ebdeb9.jpg\" style=\"\" title=\"apifactory/2017/09/13/911e858223d56d2ab70d75d643ebdeb9.jpg\"/></p><p><br/></p>",
+	"properties":[{
+		"childsCurGoods":[{
+			"dateAdd":"2017-09-12 20:59:44",
+			"id":1582,
+			"name":"80",
+			"paixu":0,
+			"propertyId":870,
+			"remark":"",
+			"userId":951
+		},
+		{
+			"dateAdd":"2017-09-12 20:59:48",
+			"id":1583,
+			"name":"90",
+			"paixu":0,
+			"propertyId":870,
+			"remark":"",
+			"userId":951
+		},
+		{
+			"dateAdd":"2017-09-12 20:59:53",
+			"id":1584,
+			"name":"100",
+			"paixu":0,
+			"propertyId":870,
+			"remark":"",
+			"userId":951
+		},
+		{
+			"dateAdd":"2017-09-13 09:50:34",
+			"id":1594,
+			"name":"110",
+			"paixu":0,
+			"propertyId":870,
+			"remark":"",
+			"userId":951
+		},
+		{
+			"dateAdd":"2017-09-13 09:50:39",
+			"id":1595,
+			"name":"120",
+			"paixu":0,
+			"propertyId":870,
+			"remark":"",
+			"userId":951
+		}],
+		"dateAdd":"2017-09-12 20:59:10",
+		"id":870,
+		"name":"尺码",
+		"paixu":0,
+		"userId":951
+	},
+	{
+		"childsCurGoods":[{
+			"dateAdd":"2017-09-13 09:51:06",
+			"id":1598,
+			"name":"灰色",
+			"paixu":0,
+			"propertyId":871,
+			"remark":"",
+			"userId":951
+		},
+		{
+			"dateAdd":"2017-09-13 09:51:12",
+			"id":1599,
+			"name":"米色",
+			"paixu":0,
+			"propertyId":871,
+			"remark":"",
+			"userId":951
+		},
+		{
+			"dateAdd":"2017-09-13 10:10:27",
+			"id":1603,
+			"name":"黑色",
+			"paixu":0,
+			"propertyId":871,
+			"remark":"",
+			"userId":951
+		},
+		{
+			"dateAdd":"2017-09-13 10:10:40",
+			"id":1605,
+			"name":"藏青色",
+			"paixu":0,
+			"propertyId":871,
+			"remark":"",
+			"userId":951
+		},
+		{
+			"dateAdd":"2017-09-13 10:10:45",
+			"id":1606,
+			"name":"紫色",
+			"paixu":0,
+			"propertyId":871,
+			"remark":"",
+			"userId":951
+		},
+		{
+			"dateAdd":"2017-09-13 10:42:05",
+			"id":1607,
+			"name":"粉色",
+			"paixu":0,
+			"propertyId":871,
+			"remark":"",
+			"userId":951
+		},
+		{
+			"dateAdd":"2017-09-13 10:42:12",
+			"id":1608,"name":"墨绿色",
+			"paixu":0,
+			"propertyId":871,
+			"remark":"",
+			"userId":951
+		},
+		{
+			"dateAdd":"2017-09-13 10:42:23",
+			"id":1609,
+			"name":"咖啡色",
+			"paixu":0,
+			"propertyId":871,
+			"remark":"",
+			"userId":951
+		},
+		{
+			"dateAdd":"2017-09-13 12:51:37",
+			"id":1617,
+			"name":"姜黄色",
+			"paixu":0,
+			"propertyId":871,
+			"remark":"",
+			"userId":951
+		},
+		{
+			"dateAdd":"2017-09-13 12:51:46",
+			"id":1618,
+			"name":"酒红色",
+			"paixu":0,
+			"propertyId":871,
+			"remark":"",
+			"userId":951
+		},
+		{
+			"dateAdd":"2017-09-13 13:56:09",
+			"id":1624,
+			"name":"枣红色",
+			"paixu":0,
+			"propertyId":871,
+			"remark":"",
+			"userId":951
+		}],
+		"dateAdd":"2017-09-12 21:03:40",
+		"id":871,
+		"name":"颜色",
+		"paixu":0,
+		"userId":951
+	}],
+	"basicInfo":{
+		"categoryId":1872,
+		"characteristic":"可爱",
+		"commission":0.00,
+		"commissionType":0,
+		"dateAdd":"2017-09-13 13:20:51",
+		"dateStart":"2017-09-13 13:18:20",
+		"dateUpdate":"2018-10-14 00:16:45",
+		"gotScore":0,
+		"gotScoreType":0,
+		"id":3776,
+		"kanjia":false,
+		"kanjiaPrice":0.00,
+		"logisticsId":386,
+		"minPrice":69.00,
+		"minScore":0,
+		"name":"打底",
+		"numberFav":0,
+		"numberGoodReputation":0,
+		"numberOrders":0,
+		"numberSells":0,
+		"originalPrice":119.00,
+		"paixu":0,
+		"pic":"https://cdn.it120.cc/apifactory/2017/09/13/e170a4c1a73ee3144a97f431e60ea12b.jpg",
+		"pingtuan":false,
+		"pingtuanPrice":0.00,
+		"propertyIds":",870,871,",
+		"recommendStatus":0,
+		"recommendStatusStr":"普通",
+		"shopId":0,
+		"status":0,
+		"statusStr":"上架",
+		"stores":200,
+		"userId":951,
+		"views":9686,
+		"weight":0.00
+	}
+}
